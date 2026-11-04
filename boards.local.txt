@@ -1,1 +1,2 @@
 nicenanov2.upload.tool=uf2upload
+nicenanov2.build.ldscript=nrf52840_s140_v6.ld
