@@ -1,0 +1,1 @@
+nicenanov2.upload.tool=uf2upload
